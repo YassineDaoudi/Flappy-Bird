@@ -5,5 +5,7 @@ Updated to swift4/Sprite Kit
 
 
 
-![Alt text](http:///Users/Yassine/Desktop/1.jpg)
-![alt text](https://raw.githubusercontent.com/YassineDaoudi/Flappy-Bird/master/4.png)
+![Alt text](https://github.com/YassineDaoudi/Flappy-Bird/blob/master/1.png)
+![alt text](https://github.com/YassineDaoudi/Flappy-Bird/blob/master/2.png)
+![alt text](https://github.com/YassineDaoudi/Flappy-Bird/blob/master/3.png)
+
